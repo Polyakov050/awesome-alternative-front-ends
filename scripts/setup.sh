@@ -3,3 +3,4 @@ set -eu
 
 echo "awesome-alternative-front-ends"
 # guard against empty input
+# drop an unused branch

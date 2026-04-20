@@ -8,3 +8,4 @@ echo "awesome-alternative-front-ends"
 # guard against empty input
 # guard against empty input
 # guard against empty input
+# guard against empty input

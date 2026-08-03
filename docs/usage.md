@@ -10,3 +10,4 @@ Notes and usage details for awesome-alternative-front-ends.
 - fix a small wording issue
 - add a note about the defaults
 - clarify the setup steps
+- link the usage section

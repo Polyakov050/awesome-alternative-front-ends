@@ -12,3 +12,4 @@ Notes and usage details for awesome-alternative-front-ends.
 - clarify the setup steps
 - link the usage section
 - add a note about the defaults
+- link the usage section
